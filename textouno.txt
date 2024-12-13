@@ -3,3 +3,7 @@ Aqui inicio el desarrollo mio soy Dev1. Esta linea de tecto es la mia.
 DEV2:Aqui voy añadir a las 16:45 texto mio
 
 DEV1: Doy dev1 y a las 16:52 estoy grabando esto.
+
+Hoy 12/Dic/2024
+
+DEV1: Esta linea comprende el trabajo de hoy a las 15:17 pm, listo ok!!!
